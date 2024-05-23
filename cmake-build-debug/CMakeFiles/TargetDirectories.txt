@@ -1,0 +1,3 @@
+D:/First_year/C-program/2024.5.23/project/cmake-build-debug/CMakeFiles/project.dir
+D:/First_year/C-program/2024.5.23/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/First_year/C-program/2024.5.23/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
